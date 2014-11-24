@@ -4,10 +4,6 @@ This project describes a system that would be used in a car wash facility.
 
 The system specification, which we received from the client, can be found below in portuguese.
 
-P.S.: There are two folders named "exemplo T1" and "exemplo T2". They contain
-previous projects utilizing UML which we can use as an example, but it is
-strongly recommended that we use the official documentation models.
-
 ###Ostrich Informatics - Team
 
 * [Bruno Bulso](https://github.com/BrunoBulso) (Project Manager)
